@@ -1,7 +1,7 @@
 # 🧵 The Couture Gives Back Manifesto: The Soul of the Runway
 > "True luxury is a reflection of the soul. A civilized society and a genuine high culture comes together to protect its most vulnerable and ensure that every family has a safe, dignified corner to rest."
 
-## I. The Spiritual Crisis of Inequity & Paralysis
+## I. The Spiritual Crisis of Inequity
 Inequity does not just drain people financially—it drains them spiritually by weaponizing hopelessness. When people look at the widening divide between the rich and the poor, they freeze. They look at systemic complexity and feel a profound sense of paralysis because they simply do not know how to make a real, meaningful difference against a problem that feels so overwhelming. When humans feel helpless, they withdraw. 
 
 We all want to help. We just do not know how sometimes. 

@@ -1,4 +1,6 @@
-<img width="137" height="148" alt="image" src="https://github.com/user-attachments/assets/77854351-0ba8-4c63-951c-5dba8204d85e" /># 🧵 Couture Gives Back: The Generosity Runway Protocol
+<img width="137" height="148" alt="image" src="https://github.com/user-attachments/assets/77854351-0ba8-4c63-951c-5dba8204d85e" />
+
+# 🧵 Couture Gives Back: The Generosity Runway Protocol
 > An Open-Source, Parameter-Driven Layer-2 Architecture for Direct Mutual Aid, Haute Culture Rivalry, and Sustainable Craft Sponsorship.ave
 
 ## 🕊️ Executive Summary & Problem

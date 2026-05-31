@@ -6,7 +6,7 @@
 ## 🕊️ Executive Summary & Problem
 As the economic divide between the rich and the poor grows ever wider, we are presented with a profound human crisis. Traditional charity frameworks seem to have collapsed into supporting only themselves, leaving everyday people with no relief channels.
 
-We all want to help, but we often simply do not know how to make a meaningful difference against such a massive problem.   This platform protocol replaces helplessness with direct,  community agency, sourcing aid from enterprises that have the ability to easily provide them. The model rewards these enterprises with publicity that boosts their brand via the delight clients receive in purchasing their brand wares with the knowledge that their purchase is helping those who are less fortunate.
+We all want to help, but we often simply do not know how to make a meaningful difference against such a massive problem.   This platform protocol replaces helplessness with direct,  community agency, sourcing aid from enterprises that have the ability to easily provide them. The model rewards these enterprises with publicity that boosts their brand via the delight clients receive in knowing that their purchase is helping those who are less fortunate.
 
 ## 👑 The Solution: Haute Culture Competes for Who Can Give More
 We celebrate these brands' inherent passion for prestige, creative excellence, and high-visibility leadership. High fashion is an industry built on historic rivalry, supreme social status, and a feel-good result for the clients who purchase their creations.

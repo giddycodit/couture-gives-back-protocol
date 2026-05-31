@@ -19,6 +19,9 @@ The protocol does not hardcode flat aid contribution percentages. Instead, it ut
 ### Platform Support for Upcycler Artists Product Sales and Aid Fund Contribution via Sponsorship
 Additionally, these couture houses/brands may sponsor independent upcyclers, whose creative wares are sold on the platform via a zero-deduction peer-to-peer marketplace. This adds a competitive sense for the upcyclers, who are not limited by how many sponsorships they may achieve. A sponsorship donates a percentage of the creator's sales to the platform aid funds. This percentage is nbot taken from the creator's proceeds. They are simply calculated based on them.  **Every upcycler automatically receives a baseline default platform sponsorship of 3%** funded by the protocol's aid capital reservoir. Upcycler artists may create items branded with potential sponsors logos to solicit sponsorship from them.
 
+### Platform Aid Fund Reserve Levels Provide Long Term Liquidity
+The platform will maintain a large aid reserve capitol that is safely invested for capitol growth. This reserve capitol will allow continued aid support to bridge times when couture sponsorship may be low due to more difficult economic conditions.  
+
 ## 🛠️ The Decentralized Technical Infrastructure
 To protect the privacy of vulnerable populations, the platform is engineered as a public, decentralized utility completely disconnected from centralized corporate gateways:
 - **Censorship-Resistant Frontend:** Hosted permanently on peer-to-peer IPFS nodes and mapped to a `.eth` ENS domain.

@@ -11,7 +11,7 @@ The tragedy is not a lack of empathy; it is a broken framework that divides us i
 ## II. The Call to Haute Culture: Competitions for Who Can Give More
 We celebrate these brands' inherent passion for prestige, creative excellence, and high-visibility leadership. High fashion is an industry built on historic rivalry, supreme social status, and a feel-good result for the clients who purchase their creations.
 
-As the economic divide grows ever wider, we are presented with a profound opportunity. Those of us who are currently more fortunate have the unique privilege and responsibility to support those who are navigating a rougher patch in their journey. True high culture is found in this connection. 
+As the economic divide grows ever wider, we are presented with a profound opportunity. Those of us who are currently more fortunate have the unique privilege and abiliy to support those who are navigating a rougher patch in their journey. True high culture is found in this connection. 
 
 **#TheGenerosityRunway** operates as an elegant, competitive arena designed to gently entice these iconic brands forward. It implements philanthropy as a real-time celebration and contest of craftsmanship and ultimate societal benevolence. When everyday citizens and wealthy patrons tag their favorite houses with **#CoutureGivesBack**, they cast a clear vote to show off their "goods" in Giving. It provides a joyful, competitive way to do so—encouraging our favorite houses to lead, share their strength, and weave an unbreakable safety net for everyone.
 

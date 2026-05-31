@@ -26,18 +26,18 @@ Additionally, these couture houses/brands may sponsor independent upcyclers, who
 ## 🏦 Platform Aid Fund Reserve Levels Provide Long Term Liquidity 🪙🪙🪙
 The platform will maintain a large aid reserve capitol that is safely invested for capitol growth. This reserve capitol will allow continued aid support to bridge times when couture sponsorship may be low due to more difficult economic conditions.  
 
-## 🛠️ The Decentralized Technical Infrastructure
+## 🛠️ Decentralized Technical Infrastructure
 To protect the privacy of vulnerable populations, the platform is engineered as a public, decentralized utility completely disconnected from centralized corporate gateways:
 - **Censorship-Resistant Frontend:** Hosted permanently on peer-to-peer IPFS nodes and mapped to a `.eth` ENS domain.
 - **Zero-PII Identity Layer:** Utilizing Semaphore Zero-Knowledge (ZK) Proof primitives to verify unique human eligibility without collecting database logs, names, or locations.
 - **On-Device AI Navigator:** Powered by an open-source AI executing inside an isolated, decentralized GPU runtime model, auto-wiping chat memory instantly upon voucher generation.
 - **Compliance Shield:** Real-time on-chain OFAC SDN database queries via the Chainlink Automated Compliance Engine (ACE), optimized to secure a FinCEN No-Action Letter and an OFAC Interpretive Ruling.
 
-## 📊 Pre-Seed Funding Target (\$15,000 Milestone)
+## 📊 Pre-Seed Funding Target (\$25,000 Milestone)
 We are actively raising a baseline setup fund in our personal capacity via Post-Money SAFE notes to manifest our dual-entity legal frameworks (Delaware Non-Profit + Swiss Association Verein) and push our prototype code live.
 
 - 🏛️ **Phase 1: Entity & Compliance Manifestation:** \$5,500
-- 💻 **Phase 2: App, Website, & Smart Contract Foundation:** \$4,500
+- 💻 **Phase 2: App, Website, & Smart Contract Foundation:** \$14,500
 - 🎨 **Phase 3: Visual Leaderboard Design & Creator Outreach:** \$5,000
 
 ## 🤝 Paid Engineering Contracts

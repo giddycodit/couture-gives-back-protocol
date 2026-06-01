@@ -24,9 +24,9 @@ The platform does not restrict aid to a certain group. It recognizes that all pe
 Additionally, these couture houses/brands may sponsor independent upcyclers, whose creative wares are sold on the platform via a zero-deduction peer-to-peer marketplace. This adds a competitive sense for the upcyclers, who are not limited by how many sponsorships they may achieve. A sponsorship donates a percentage of the creator's sales to the platform aid funds. This percentage is not taken from the creator's proceeds. They are simply calculated based on them.  **Every upcycler automatically receives a baseline default platform sponsorship of 3%** funded by the protocol's aid capital reservoir. 
 
 **Upcycler artists may create items branded with potential sponsors logos to solicit sponsorship from them.**
-An artist item targeted for brand promotion and sponsorship solikciation will have the brand's hash tag added to it. The product will be displayued on the sponsorship Runway along with other artist's products vying for the same Brand  sponsorship. 
+An artist item targeted for brand promotion and sponsorship solicitation will be tagged with the brand's hash tag so that the product appears on the brand's seeking sponsorship Runway along with other artist's products vying for the same Brand  sponsorship. 
 
-**Couture Houses/Brands Benefit from a Venue of Crafts people and Artists that they may Discover and Potebntially Use .**
+**Couture Houses/Brands Benefit from a Venue of Innovative Crafts people and Artists that they may Discover and Potentially Hire .**
 
 ## 🏦 Platform Aid Fund Reserve Levels Provide Long Term Liquidity 🪙🪙🪙
 The platform will maintain a large aid reserve capitol that is safely invested for capitol growth. This reserve capitol will allow continued aid support to bridge times when couture sponsorship may be low due to more difficult economic conditions.  

@@ -8,7 +8,7 @@ We all want to help. We just do not know how sometimes.
 
 The tragedy is not a lack of empathy; it is a feeling of hopelessness when confronted with a problem that seems insurmountable.
 
-In order to address it, we must create an avenue by which this gigantic issue can be addressed.
+In order to address this goliath, we need to equip ourselves (as David) with the right kind of slingshot.
 
 ## II. The Call to Haute Culture: Competitions for Who Can Give More
 We celebrate these brands' inherent passion for prestige, creative excellence, and high-visibility leadership. High fashion is an industry built on historic rivalry, supreme social status, and a feel-good result for the clients who purchase their creations.

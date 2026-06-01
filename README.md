@@ -45,6 +45,10 @@ We are actively raising a baseline setup fund in our personal capacity via Post-
 - 💻 **Phase 2: App, Website, & Smart Contract Foundation:** \$14,500
 - 🎨 **Phase 3: Visual Leaderboard Design & Creator Outreach:** \$5,000
 
+## 📊 Executive Mobilization Stipend (\$15,000 (3 months @ $5,000 per month)
+This provides founder and executive oversight income for the iitial 3 month launch period.
+
 ## 🤝 Paid Engineering Contracts
 We are soliciting senior Web3/Solidity developers for fully paid, milestone-based development contracts. We do not rely on open-source volunteers. If you are an experienced Solidity or Wasm engineer, please review our [PAID CONTRACT TASK LIST](./PAID_CONTRACT_TASK_LIST.md)  and submit your portfolio to our founding team if you are qualified and interested in doing some or all of the tasks in the list..
+
 

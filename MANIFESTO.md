@@ -6,7 +6,9 @@ Inequity does not just drain people financially—it drains them spiritually by 
 
 We all want to help. We just do not know how sometimes. 
 
-The tragedy is not a lack of empathy; it is a broken framework that divides us into pointing fingers. We must stand shoulder-to-shoulder and acknowledge an uncomfortable, liberating truth: **we are all just as guilty.** As consumers, we buy blindly; as independent creators, we get caught in systems that hold us back; as corporations, we manage risk instead of maximizing compassion. No shame. No finger-pointing. No cancellation. None of us walk this life perfectly, and we are all in this together.
+The tragedy is not a lack of empathy; it is a feeling of hopelessness when confronted with a problem that seems insurmountable.
+
+In order to address it, we must create an avenue by which this gigantic issue can be addressed.
 
 ## II. The Call to Haute Culture: Competitions for Who Can Give More
 We celebrate these brands' inherent passion for prestige, creative excellence, and high-visibility leadership. High fashion is an industry built on historic rivalry, supreme social status, and a feel-good result for the clients who purchase their creations.

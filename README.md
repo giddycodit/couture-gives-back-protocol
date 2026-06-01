@@ -45,7 +45,7 @@ We are actively raising a baseline setup fund in our personal capacity via Post-
 - 💻 **Phase 2: App, Website, & Smart Contract Foundation:** \$14,500
 - 🎨 **Phase 3: Visual Leaderboard Design & Creator Outreach:** \$5,000
 
-## 📊 Executive Mobilization Stipend (\$15,000 (3 months @ $5,000 per month)
+## 📊 Executive Mobilization Stipend (\$15,000  = 3 months @ $5,000 per month)
 This provides founder and executive oversight income for the iitial 3 month launch period.
 
 ## 🤝 Paid Engineering Contracts

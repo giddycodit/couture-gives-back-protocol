@@ -49,7 +49,7 @@ Integrate privacy-preserving verification and national security compliance filte
 
 ---
 
-## 📦 Project Portfolio 4: Decentralized Web3 Leaderboard & Sopcial Vote Interface (Web Interface)
+## 📦 Project Portfolio 4: Decentralized Web3 Leaderboard & Social Vote Interface (dApp - Web Interface)
 - **Contract Type:** Milestone Contract  
 - **Allocation:** $4,500 USD (`USDC`)  
 - **Target Timeline:** 10 Days From Signing  

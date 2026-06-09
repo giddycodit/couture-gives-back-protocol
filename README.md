@@ -83,7 +83,7 @@ We are actively raising a baseline setup fund via Non-Dilutive Ecosystem Grant M
     *Frontend asset creation, UI/UX polishing, and initial couture house onboardings.*
 
 ### 🛠️ Cross-Phase Technical Architecture Oversight ($21,000)
-* **Allocation:** `$21,000` total ($7,000 per month over 3 month laumch runway).
+* **Allocation:** `$21,000` total ($7,000 per month over 3 month launch runway).
 * **Purpose:** Active engineering mobilization, repository maintenance, and protocol architecture oversight.
   
 To ensure strict security compliance, this stipend is directly tied to the following structural milestones handled by the Founder/Architect:

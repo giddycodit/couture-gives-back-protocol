@@ -49,20 +49,33 @@ Integrate privacy-preserving verification and national security compliance filte
 
 ---
 
-## 📦 Project Portfolio 4: Sovereign Edge Proxy & AI Runtime Client
+## 📦 Project Portfolio 4: Decentralized Web3 Leaderboard & Sopcial Vote Interface (Web Interface)
 - **Contract Type:** Milestone Contract  
-- **Allocation:** $6,500 USD (`USDC`)  
+- **Allocation:** $4,500 USD (`USDC`)  
 - **Target Timeline:** 10 Days From Signing  
 
 ### 📋 Technical Specifications
-Build the un-blockable front-facing navigation layer, completely isolated from centralized cloud web servers:
-1. **IPFS/IPNS Compilation:** Build and package the minimalist, high-fashion grey-scale UI leaderboard dashboard to deploy natively across peer-to-peer IPFS nodes, mapped to our `.eth` ENS domain.
-2. **Isolated AI Client Runtime:** Configure the prompt-engineering layer for an open-source model executing locally via the user's WebGPU browser runtime or decentralized GPU nodes. 
-3. **Parameter Extraction & Memory Purge:** The client AI must successfully translate natural chat conversation into clean operational parameters, compile them into an encrypted verification token, and execute an immediate RAM memory wipe to leave zero trace logs.
+Build the high-fashion, minimalist grey-scale public web interface for tracking campaign progress:
+1. **Hashtag Vote Tracker Frontend:** Build the public tracking layout that connects to social media indexing APIs to parse user tags (e.g., `#TheGenerosityRunway` and `#CoutureGivesBack`).
+2. **Dynamic Corporate Duel Board:** Render a live, responsive web chart displaying the real-time giving parameters, client vote tallies, and active matching pools of competing brands.
+3. **IPFS Network Deployment:** Package the frontend web build to compile statically and load natively across decentralized IPFS nodes mapped to an ENS domain.
 4. **Verification & Test Coverage:** Deliver a local testing script that verifies the immediate purge of local browser memory states post-transaction. Provide automated build scripts verifying successful deployment and content-routing integrity across local IPFS/IPNS nodes.
 
-
 ---
+
+## 📦 Project Portfolio 5: Anonymous Recipient Web3 Request Portal (dApp - Web Interface)
+- **Contract Type:** Milestone Contract  
+- **Allocation:** $4,500 USD (`USDC`)  
+- **Target Timeline:** 14 Days From Signing  
+
+### 📋 Technical Specifications
+Build the private, secure web workspace that individuals in crisis access to request immediate aid:
+1. **Dignified AI Companion Workspace:** Build a responsive text interface powered by an open-source model running on a decentralized GPU runtime network via the user's local WebGPU browser memory.
+2. **Natural Language Emergency Parsing:** Configure the local AI model to extract structural parameters from a single messy, high-stress message (e.g., pulling "pet-friendly lodging needed" or "grocery access" parameters from a conversation).
+3. **Fulfillment Webhook Engine:** Integrate the frontend with US card-issuing and on-demand utility networks (e.g., Stripe Issuing or gift card distribution endpoints) to render single-use digital barcodes or virtual debit cards straight onto the user's browser canvas upon ZK-approval.
+4. **Absolute RAM Memory Purge:** Program a strict, local script that permanently wipes all plain-text chat inputs and session state logs from the device's temporary memory (RAM) instantly after voucher code generation to safeguard the recipient's privacy.
+5. **Verification & Test Coverage:** Deliver an end to end local testing script that verifies the immediate purge of local browser memory states post-transaction. Provide automated build scripts verifying successful deployment and content-routing integrity across local IPFS/IPNS nodes.
+
 
 ## 📥 Developer Vetting & Submission Process
 To apply for a specific Project Portfolio contract, comment directly on the active repository Issue or submit your portfolio to the founding team. All applicants must provide verified examples of authoring and deploying production-grade, optimized smart contracts to an active testnet or mainnet node.

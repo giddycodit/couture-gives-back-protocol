@@ -16,7 +16,7 @@ We celebrate these brands' inherent passion for prestige, creative excellence, a
 **Brands May Choose Their Giving Levels**
 Giving rates are tracked individually per house/brand. The system initializes with an achievable **1% challenge request baseline**. As friendly, real-time duels play out on the public leaderboard, the brands are enticed to dynamically scale their parameters up through **3%, 5%, and 7%**, until a house finally unlocks the current ultimate **10% milestone tithe**. Clients and fans of the brands may **#GiveMoreGoods** them to cheer them into ever higher levels of giving.
 
-## 🫴 🤝 Those With Needs Apply for Them via the App and are Approved in Minutes 💸💸
+## 🫴 🤝 Those With Needs Apply for Them via the dApp and are Approved in Minutes 💸💸
 The platform does not restrict aid to a certain group. It recognizes that all people may need help at different times in their lives. It satisfies those needs in the form of the goods, services, or accomodations requested or as cash to purchase them. Goods, services, and accomodations are acquired via automated APIs and recipients receive tokens to access them. Delivery services such as Uber and Lyft are utilized when delivery is necessary.  Each unique applicant will receive a certain amount (currently aimed at $300) of goods or services in a first request. This first request will require minimal digital identification as we understand that in a crisis it may be difficult to provide more rigorous credentials.  The system operates on an honor system. We are not the judges of who should receive aid or not.  For additional needs after the first request, more rigorous identification is requested to ensure that the platform is not abused and used for purposes other than individual and family crisis support. Goods and services are secured via automated APIs and tokens are provided to applicants to present to accept the secured provisions.
 
 
@@ -34,23 +34,38 @@ The Couture Gives Back protocol operates via a 5-step automated, non-custodial p
 
 ```mermaid
 graph TD
- A[Luxury Brand / Sponsor] -->|1. Ingress & Params| B[Portfolio 1: Core Registry & Vault]
- B -->|2. Automated Split| C{70/30 Bifurcation Engine}
- C -->|70% Funds| D[Active Aid Pool]
- C -->|30% Funds| E[Portfolio 2: Liquidity Bridge]
- E -->|Institutional Yield| F[Aave / Yield Instruments]
- F -->|24h Interest Harvest| D
- D -->|Voucher Allocation| G[Voucher Pool]
+    %% SPONSOR INGRESS FLOW
+    A[Luxury Brand / Sponsor Event] -->|1. Promo Proceeds & 10% Tithe| B[Portfolio 1: Core Registry & Vault]
+    B -->|2. Automated Bifurcation| C{70/30 Separation Vault}
+    C -->|70% Active Aid| D[On-Chain AID_POOL]
+    C -->|30% Permanent Capital| E[Portfolio 2: Liquidity Bridge]
+    E -->|Institutional Yield Lending| F[Aave / Tokenized Treasury]
+    F -->|24h Interest Harvest| D
 
- H[User Aid Request] -->|3. Compliance Gate| I[Portfolio 3: ZK Identity Gate]
- I -->|Chainlink ACE<br/>OFAC Check| J{Cleared?}
- I -->|Semaphore<br/>ZK-Proof| K[Anonymized PII Token]
+    %% PUBLIC WEB UI FLOW
+    A -->|Social Media Mentions / Tags| G[Public Social Indexer API]
+    G -->|Parse #TheGenerosityRunway| H[Portfolio 4: Public Leaderboard Web UI]
+    B -->|Read Active TVL / Matching Pools| H
 
- J -->|Yes| L[Portfolio 4: Sovereign Edge Proxy]
- K --> L
-
- L -->|4. Local WebGPU AI| M[Client RAM Purge]
- L -->|5. Final Fulfillment| N[Local Retail API Voucher Del]
+    %% APPLICANT REQUEST FLOW (THE WEB PORTAL)
+    I[Applicant in Crisis] -->|3. Access Anonymous URL via IPFS/ENS| J[Portfolio 5: Crisis Recipient Request Web UI]
+    J -->|Local WebGPU Client AI Reasoning| K[Extract Crisis Params: Hotel/Grocery/Ride]
+    K -->|Generate Local Commitment Key| L[Portfolio 3: ZK Identity & Compliance Gate]
+    
+    %% BACKEND RESOLUTION & SECURITY SAFE HARBOR
+    L -->|Chainlink ACE Oracle Check| M{U.S. OFAC SDN Cleared?}
+    M -->|No| N[Transaction Aborted / Reverted]
+    M -->|Yes + Semaphore ZK-Proof Verified| O[Smart Contract Voucher Release Approval]
+    
+    %% FULFILLMENT & API EXECUTION
+    O -->|Lock Vault Capital| D
+    O -->|4. Secure Decentralized Oracle Relay Webhook| P[US Commercial Backend Gateways]
+    P -->|Stripe Issuing / Blackhawk Card API| Q[Generate Virtual Visa or Retail Barcode]
+    
+    %% SCREEN DELIVERY
+    Q -->|5. Push Encrypted Image Stream| J
+    J -->|Render Scannable Voucher on Screen| I
+    J -->|6. Immediate Local RAM Memory Purge| R[Zero Trace Logs Saved]
 ```
 
 ### Detailed Flow breakdown:
@@ -77,8 +92,8 @@ We are actively raising a baseline setup fund via Non-Dilutive Ecosystem Grant M
 ### 🛠️ Hard Deliverable Milestones ($55,000)
 *   🏛️ **Phase 1: Entity & Compliance Manifestation** — `$8,000`  
     *Legal formation, Swiss Verein structuring, and FinCEN No-Action framework completion.*
-*   💻 **Phase 2: App, Website, & Smart Contract Foundation** — `$37,000`  
-    *Escrow allocations for core protocol deliverables detailed in our paid task list.*
+*   💻 **Phase 2: Web3 Websites, dApps,& Smart Contract Foundation** — `$37,000`  
+    *Escrow allocations for core MVP protocol deliverables detailed in our paid task list.*
 *   🎨 **Phase 3: Visual Leaderboard Design & Creator Outreach** — `$10,000`  
     *Frontend asset creation, UI/UX polishing, and initial couture house onboardings.*
 

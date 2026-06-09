@@ -70,15 +70,26 @@ To protect the privacy of vulnerable populations, the platform is engineered as 
 - **On-Device AI Navigator:** Powered by an open-source AI executing inside an isolated, decentralized GPU runtime model, auto-wiping chat memory instantly upon voucher generation.
 - **Compliance Shield:** Real-time on-chain OFAC SDN database queries via the Chainlink Automated Compliance Engine (ACE), optimized to secure a FinCEN No-Action Letter and an OFAC Interpretive Ruling.
 
-## 📊 Pre-Seed Funding Target (\$25,000 Milestone)
-We are actively raising a baseline setup fund in our personal capacity via Non-Dilutive Ecosystem Grant Milestones / Safe Multi-Sig to manifest our dual-entity legal frameworks (Delaware Non-Profit + Swiss Association Verein) and push our prototype code live.
+## 📊 Pre-Seed Funding Roadmap & Capital Allocation ($40,000 Total Milestone)
 
-- 🏛️ **Phase 1: Entity & Compliance Manifestation:** \$5,500
-- 💻 **Phase 2: App, Website, & Smart Contract Foundation:** \$14,500
-- 🎨 **Phase 3: Visual Leaderboard Design & Creator Outreach:** \$5,000
+We are actively raising a baseline setup fund via Non-Dilutive Ecosystem Grant Milestones and Safe Multi-Sig execution to manifest our dual-entity legal frameworks (Delaware Non-Profit + Swiss Association Verein) and push our prototype code live.
 
-## 📊 Executive Mobilization Stipend (\$15,000  = 3 months @ $5,000 per month)
-This provides founder and executive oversight income for the iitial 3 month launch period.
+*   🏛️ **Phase 1: Entity & Compliance Manifestation** — `$5,500`  
+    *Legal formation, Swiss Verein structuring, and FinCEN No-Action framework completion.*
+*   💻 **Phase 2: App, Website, & Smart Contract Foundation** — `$14,500`  
+    *Escrow allocations for core protocol deliverables detailed in our paid task list.*
+*   🎨 **Phase 3: Visual Leaderboard Design & Creator Outreach** — `$5,000`  
+    *Frontend asset creation, UI/UX polishing, and initial couture house onboardings.*
+*   🔑 **Phase 4: Technical Architecture Oversight & Founder Mobilization** — `$15,000`  
+    *Allocated as a $5,000/month operational stipend over 3 months for the Chief Protocol Architect.*
+
+### 🛠️ Phase 4 Architecture & Oversight Deliverables
+To ensure strict security compliance, this stipend is directly tied to the following structural milestones handled by the Founder/Architect:
+1. **Developer Vetting & Code Review:** Acting as the core repository maintainer, reviewing all PR submissions from the paid engineering portfolios, and verifying gas optimizations.
+2. **Multi-Sig Administration:** Setting up, securing, and managing the multi-signature operational safes for milestone contract distributions.
+3. **Ecosystem & Integration Strategy:** Directing the live integration of the Chainlink Automated Compliance Engine and managing conversations with decentralized oracle networks.
+4. **Mainnet Deployment Supervision:** Managing the migration from L2 testnet environments to live consumer deployment states.
+
 
 ## 🤝 Paid Engineering Contracts
 We are soliciting senior Web3/Solidity developers for fully paid, milestone-based development contracts. We do not rely on open-source volunteers. If you are an experienced Solidity or Wasm engineer, please review our [PAID CONTRACT TASK LIST](./PAID_CONTRACT_TASK_LIST.md)  and submit your portfolio to our founding team if you are qualified and interested in doing some or all of the tasks in the list..

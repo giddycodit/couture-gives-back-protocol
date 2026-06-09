@@ -70,20 +70,22 @@ To protect the privacy of vulnerable populations, the platform is engineered as 
 - **On-Device AI Navigator:** Powered by an open-source AI executing inside an isolated, decentralized GPU runtime model, auto-wiping chat memory instantly upon voucher generation.
 - **Compliance Shield:** Real-time on-chain OFAC SDN database queries via the Chainlink Automated Compliance Engine (ACE), optimized to secure a FinCEN No-Action Letter and an OFAC Interpretive Ruling.
 
-## 📊 Pre-Seed Funding Roadmap & Capital Allocation ($40,000 Total Milestone)
+## 📊 Pre-Seed Funding Roadmap & Capital Allocation ($76,000 Total Target)
 
 We are actively raising a baseline setup fund via Non-Dilutive Ecosystem Grant Milestones and Safe Multi-Sig execution to manifest our dual-entity legal frameworks (Delaware Non-Profit + Swiss Association Verein) and push our prototype code live.
 
-*   🏛️ **Phase 1: Entity & Compliance Manifestation** — `$5,500`  
+### 🛠️ Hard Deliverable Milestones ($55,000)
+*   🏛️ **Phase 1: Entity & Compliance Manifestation** — `$8,000`  
     *Legal formation, Swiss Verein structuring, and FinCEN No-Action framework completion.*
-*   💻 **Phase 2: App, Website, & Smart Contract Foundation** — `$14,500`  
+*   💻 **Phase 2: App, Website, & Smart Contract Foundation** — `$37,000`  
     *Escrow allocations for core protocol deliverables detailed in our paid task list.*
-*   🎨 **Phase 3: Visual Leaderboard Design & Creator Outreach** — `$5,000`  
+*   🎨 **Phase 3: Visual Leaderboard Design & Creator Outreach** — `$10,000`  
     *Frontend asset creation, UI/UX polishing, and initial couture house onboardings.*
-*   🔑 **Cross-Phase Oversight: Technical Architecture Oversight & Founder Mobilization** — `$15,000`  
-    *Allocated as a $5,000/month operational stipend over 3 months for the Chief Protocol Architect.*
 
-### 🛠️ Cross-Phase Architecture & Oversight Deliverables
+### 🛠️ Cross-Phase Technical Architecture Oversight ($21,000)
+* **Allocation:** '$21,000' total ($7,000 per month over 3 month laumch runway).
+* **Purpose:** Active engineering mobilization, repository maintenance, and protocol architecture oversight.
+  
 To ensure strict security compliance, this stipend is directly tied to the following structural milestones handled by the Founder/Architect:
 1. **Developer Vetting & Code Review:** Acting as the core repository maintainer, reviewing all PR submissions from the paid engineering portfolios, and verifying gas optimizations.
 2. **Multi-Sig Administration:** Setting up, securing, and managing the multi-signature operational safes for milestone contract distributions.

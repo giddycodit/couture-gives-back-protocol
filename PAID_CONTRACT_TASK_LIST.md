@@ -1,6 +1,6 @@
 # 🛠️ Paid Engineering Contracts: Core Software Deliverables
 > **Project Status:** Active Funding Sourcing  
-> **Total Development Budget:** $14,500 USD (Distributed via Post-Money SAFE / Pre-Seed Liquidity)  
+> **Total Development Budget:** $14,500 USD (Distributed via Non-Dilutive Ecosystem Grant Milestones /  SAFE Multi=Sig)  
 > **Payout Framework:** Milestone-Based Surcharges (Paid via Safe Multi-Sig Wallet in USDC)  
 > **Architecture Authority:** All code must pass strict review by the Chief Enterprise Architect.
 

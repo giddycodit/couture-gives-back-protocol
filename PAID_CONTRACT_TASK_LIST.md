@@ -18,7 +18,7 @@ The developer will write, optimize, and locally compile the foundational smart c
 1. **Dynamic Parameter Mapping:** Implement an adjustable configuration engine (`mapping(address => uint256) public brandTitheParameters`) initialized with a 1.00% (100 basis points) challenge request baseline, enabling dynamic scaling up to a 10.00% cap.
 2. **Zero-Deduction Marketplace Fee Loops:** Program the 7.00% corporate sponsorship fee and the hardcoded 3.00% protocol default baseline cushion for independent upcyclers. The contract must guarantee that 100% of listing prices land directly in the artist's private wallet.
 3. **Inviolable Asset Lock:** Implement a 100% non-recourse restriction. Once capital hits the deposit vault, all administrative clawbacks, freezes, or contract reversals must be mathematically impossible.
-
+4. **Verification & Test Coverage:** Write a complete Foundry testing suite achieving 100% statement coverage for the baseline and cap limits. Simulate fuzz testing across 1,000 random entry parameters to ensure math operations never overflow or lock user funds.
 ---
 
 ## 📦 Project Portfolio 2: The 30% Balanced Reserve & Liquidity Bridge
@@ -31,6 +31,7 @@ Build the automated liquidity-routing and interest-bearing asset balance machine
 1. **Automated Bifurcation:** Program the contract to automatically split incoming corporate stablecoins at ingress—routing 70% to the active `AID_POOL` and 30% to the `RESERVE_POOL`.
 2. **DeFi Protocol Lending Bridges:** Code the secure, automated deployment of the 30% reserve into institutional, low-risk decentralized lending pools (e.g., Aave) or tokenized yield instruments.
 3. **Yield Harvesting Module:** Author an automated function to harvest accumulated interest every 24 hours, safely routing the yield surplus directly into the voucher distribution pool while protecting the core principal.
+4. **Verification & Test Coverage:** Implement invariant testing mocks for the external DeFi lending pools (e.g., Aave). Force-fail the oracle connection in a test environment to prove the smart contract safely routes funds to an emergency storage state without losing capital.
 
 ---
 
@@ -44,6 +45,7 @@ Integrate privacy-preserving verification and national security compliance filte
 1. **Semaphore ZK-Proof Integration:** Configure the frontend-to-smart-contract interface to verify unique human eligibility via Semaphore Zero-Knowledge cryptographic primitives, ensuring zero plain-text PII is leaked or logged.
 2. **Real-Time Oracle Ingress:** Integrate the Chainlink Automated Compliance Engine (ACE) to query the U.S. Treasury OFAC SDN database in real time. 
 3. **ZK-Sanction Validation:** Program the contract to require a valid, local cryptographic attestation token proving the user is clear of all global sanction lists before a voucher barcode can be released.
+4. **Verification & Test Coverage:** Author comprehensive integration tests verifying that a valid Semaphore ZK-proof correctly mints a nullifier hash. Provide a specific test case proving that a double-claim attack by the same identity fails immediately at the EVM layer.
 
 ---
 
@@ -57,6 +59,8 @@ Build the un-blockable front-facing navigation layer, completely isolated from c
 1. **IPFS/IPNS Compilation:** Build and package the minimalist, high-fashion grey-scale UI leaderboard dashboard to deploy natively across peer-to-peer IPFS nodes, mapped to our `.eth` ENS domain.
 2. **Isolated AI Client Runtime:** Configure the prompt-engineering layer for an open-source model executing locally via the user's WebGPU browser runtime or decentralized GPU nodes. 
 3. **Parameter Extraction & Memory Purge:** The client AI must successfully translate natural chat conversation into clean operational parameters, compile them into an encrypted verification token, and execute an immediate RAM memory wipe to leave zero trace logs.
+4. **Verification & Test Coverage:** Deliver a local testing script that verifies the immediate purge of local browser memory states post-transaction. Provide automated build scripts verifying successful deployment and content-routing integrity across local IPFS/IPNS nodes.
+
 
 ---
 

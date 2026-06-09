@@ -80,10 +80,10 @@ We are actively raising a baseline setup fund via Non-Dilutive Ecosystem Grant M
     *Escrow allocations for core protocol deliverables detailed in our paid task list.*
 *   🎨 **Phase 3: Visual Leaderboard Design & Creator Outreach** — `$5,000`  
     *Frontend asset creation, UI/UX polishing, and initial couture house onboardings.*
-*   🔑 **Phase 4: Technical Architecture Oversight & Founder Mobilization** — `$15,000`  
+*   🔑 **Cross-Phase Oversight: Technical Architecture Oversight & Founder Mobilization** — `$15,000`  
     *Allocated as a $5,000/month operational stipend over 3 months for the Chief Protocol Architect.*
 
-### 🛠️ Phase 4 Architecture & Oversight Deliverables
+### 🛠️ Cross-Phase Architecture & Oversight Deliverables
 To ensure strict security compliance, this stipend is directly tied to the following structural milestones handled by the Founder/Architect:
 1. **Developer Vetting & Code Review:** Acting as the core repository maintainer, reviewing all PR submissions from the paid engineering portfolios, and verifying gas optimizations.
 2. **Multi-Sig Administration:** Setting up, securing, and managing the multi-signature operational safes for milestone contract distributions.

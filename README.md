@@ -34,23 +34,23 @@ The Couture Gives Back protocol operates via a 5-step automated, non-custodial p
 
 ```mermaid
 graph TD
-    A[Luxury Brand / Sponsor] -->|1. Ingress & Parameters| B(Portfolio 1: Core Registry & Vault)
-    B -->|2. Automated Split| C{70/30 Bifurcation Engine}
-    C -->|70% Funds| D[Active Aid Pool]
-    C -->|30% Funds| E[Portfolio 2: Liquidity Bridge]
-    E -->|Institutional Yield Lending| F[Aave / Yield Instruments]
-    F -->|24h Interest Harvest| D
-    D -->|Voucher Allocation| G(Voucher Pool)
-    
-    H[User Aid Request] -->|3. Compliance Gate| I(Portfolio 3: ZK Identity Gateway)
-    I -->|Chainlink ACE OFAC Check| J{Cleared?}
-    I -->|Semaphore ZK-Proof| K[Anonymized PII Token]
-    
-    J -->|Yes| L(Portfolio 4: Sovereign Edge Proxy)
-    K --> L
-    
-    L -->|4. Local WebGPU AI Runtime| M[Client RAM Purge]
-    L -->|5. Final Fulfillment| N[Local Retail API Voucher Delivery]
+ A[Luxury Brand / Sponsor] -->|1. Ingress & Params| B[Portfolio 1: Core Registry & Vault]
+ B -->|2. Automated Split| C{70/30 Bifurcation Engine}
+ C -->|70% Funds| D[Active Aid Pool]
+ C -->|30% Funds| E[Portfolio 2: Liquidity Bridge]
+ E -->|Institutional Yield| F[Aave / Yield Instruments]
+ F -->|24h Interest Harvest| D
+ D -->|Voucher Allocation| G[Voucher Pool]
+
+ H[User Aid Request] -->|3. Compliance Gate| I[Portfolio 3: ZK Identity Gate]
+ I -->|Chainlink ACE<br/>OFAC Check| J{Cleared?}
+ I -->|Semaphore<br/>ZK-Proof| K[Anonymized PII Token]
+
+ J -->|Yes| L[Portfolio 4: Sovereign Edge Proxy]
+ K --> L
+
+ L -->|4. Local WebGPU AI| M[Client RAM Purge]
+ L -->|5. Final Fulfillment| N[Local Retail API Voucher Del]
 ```
 
 ### Detailed Flow breakdown:

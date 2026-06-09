@@ -68,12 +68,13 @@ graph TD
     J -->|6. Immediate Local RAM Memory Purge| R[Zero Trace Logs Saved]
 ```
 
-### Detailed Flow breakdown:
-1. **Ingress & Lock:** Sponsors trigger the **Core Parameter Registry**, locking assets with an absolute non-recourse restriction (zero administrative clawbacks or freezes possible).
-2. **Yield Optimization:** The **Liquidity Bridge** splits stablecoins (70% active aid / 30% reserve) and auto-routes the 30% reserve into institutional lending pools, harvesting yield every 24 hours back into the voucher pool.
-3. **Compliance & Privacy:** When a user requests aid, the **Compliance Gateway** initiates a Chainlink oracle query to check the U.S. OFAC list. Concurrently, Semaphore ZK-proofs verify human eligibility without logging plaintext wallet histories.
-4. **Sovereign Execution:** The frontend leaderboard executes entirely on user devices via **IPFS/ENS**, using a localized WebGPU AI client that wipes its memory logs immediately after parameter parsing to maximize user safety.
+### Detailed Execution Breakdown
 
+1. **The Campaign Ingress Layer:** When a high-couture promotional event occurs, matching pools and campaign tithes land directly into the **Core Registry & Vault** on-chain. Concurrently, the **Public Leaderboard Web UI** tracks real-time customer social media "Gashtag" votes alongside corporate balances.
+2. **The Sovereign Recipient Interface:** An individual in crisis accesses the **Recipient Crisis Request Web UI** securely via an un-blockable IPFS portal. A localized browser-side AI engine translates their natural text into structured crisis parameters, preventing plain-text data from ever touching a centralized server.
+3. **The Blockchain Compliance Shield:** The request is verified on-chain. The smart contract validates their Semaphore ZK-Proof (verifying eligibility anonymously) while a Chainlink Automation oracle checks the U.S. Treasury OFAC SDN list to legally de-risk the protocol.
+4. **The Secure Financial Conversion:** Blockchains cannot call commercial web APIs directly. Once the contract clears compliance, it pulls capital from the aid pool and triggers a secure oracle bridge to instruct domestic US card issuers (like Stripe or Blackhawk). 
+5. **The On-Screen Delivery:** The gateway issues an instant virtual Visa card or retail gift card barcode. This data stream is pushed straight back to the **Recipient Request Web UI**, rendering a crisp, scannable barcode directly onto the user's phone browser canvas for instant checkout dignity.
 
 ## 🏦 Platform Aid Fund Reserve Levels Provide Long Term Liquidity 🪙🪙🪙
 The platform will maintain a large aid reserve capitol that is safely invested for capitol growth. This reserve capitol will allow continued aid support to bridge times when couture sponsorship may be low due to more difficult economic conditions.  

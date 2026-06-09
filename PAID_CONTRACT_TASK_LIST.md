@@ -1,6 +1,6 @@
 # 🛠️ Paid Engineering Contracts: Core Software Deliverables
 > **Project Status:** Active Funding Sourcing  
-> **Total Development Budget:** $14,500 USD (Distributed via Non-Dilutive Ecosystem Grant Milestones /  SAFE Multi=Sig)  
+> **Total Development Budget:** $37,000 USD (Distributed via Non-Dilutive Ecosystem Grant Milestones /  SAFE Multi=Sig)  
 > **Payout Framework:** Milestone-Based Surcharges (Paid via Safe Multi-Sig Wallet in USDC)  
 > **Architecture Authority:** All code must pass strict review by the Chief Enterprise Architect.
 
@@ -10,7 +10,7 @@ We do not rely on open-source volunteers. We are soliciting professional, milest
 
 ## 📦 Project Portfolio 1: The Core Parameter Registry & Vault Assembly
 - **Contract Type:** Milestone Contract  
-- **Allocation:** $4,500 USD (`USDC`)  
+- **Allocation:** $10,000 USD (`USDC`)  
 - **Target Timeline:** 14 Days From Signing  
 
 ### 📋 Technical Specifications
@@ -23,7 +23,7 @@ The developer will write, optimize, and locally compile the foundational smart c
 
 ## 📦 Project Portfolio 2: The 30% Balanced Reserve & Liquidity Bridge
 - **Contract Type:** Milestone Contract  
-- **Allocation:** $3,500 USD (`USDC`)  
+- **Allocation:** $8,500 USD (`USDC`)  
 - **Target Timeline:** 10 Days From Signing  
 
 ### 📋 Technical Specifications
@@ -37,7 +37,7 @@ Build the automated liquidity-routing and interest-bearing asset balance machine
 
 ## 📦 Project Portfolio 3: The Zero-Knowledge Identity & Compliance Gateway
 - **Contract Type:** Milestone Contract  
-- **Allocation:** $4,000 USD (`USDC`)  
+- **Allocation:** $12,000 USD (`USDC`)  
 - **Target Timeline:** 14 Days From Signing  
 
 ### 📋 Technical Specifications
@@ -51,7 +51,7 @@ Integrate privacy-preserving verification and national security compliance filte
 
 ## 📦 Project Portfolio 4: Sovereign Edge Proxy & AI Runtime Client
 - **Contract Type:** Milestone Contract  
-- **Allocation:** $2,500 USD (`USDC`)  
+- **Allocation:** $6,500 USD (`USDC`)  
 - **Target Timeline:** 10 Days From Signing  
 
 ### 📋 Technical Specifications

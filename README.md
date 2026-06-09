@@ -39,7 +39,7 @@ To protect the privacy of vulnerable populations, the platform is engineered as 
 - **Compliance Shield:** Real-time on-chain OFAC SDN database queries via the Chainlink Automated Compliance Engine (ACE), optimized to secure a FinCEN No-Action Letter and an OFAC Interpretive Ruling.
 
 ## 📊 Pre-Seed Funding Target (\$25,000 Milestone)
-We are actively raising a baseline setup fund in our personal capacity via Post-Money SAFE notes to manifest our dual-entity legal frameworks (Delaware Non-Profit + Swiss Association Verein) and push our prototype code live.
+We are actively raising a baseline setup fund in our personal capacity via Non-Dilutive Ecosystem Grant Milestones / Safe Multi-Sig to manifest our dual-entity legal frameworks (Delaware Non-Profit + Swiss Association Verein) and push our prototype code live.
 
 - 🏛️ **Phase 1: Entity & Compliance Manifestation:** \$5,500
 - 💻 **Phase 2: App, Website, & Smart Contract Foundation:** \$14,500

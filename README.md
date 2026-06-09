@@ -32,7 +32,7 @@ An artist item targeted for brand promotion and sponsorship solicitation will be
 
 The Couture Gives Back protocol operates via a 5-step automated, non-custodial pipeline across Layer-2 EVM rollups and decentralized infrastructure:
 
-``mermaid
+```mermaid
 graph TD
     A[Luxury Brand / Sponsor] -->|1. Ingress & Parameters| B(Portfolio 1: Core Registry & Vault)
     B -->|2. Automated Split| C{70/30 Bifurcation Engine}

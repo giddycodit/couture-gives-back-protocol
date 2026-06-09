@@ -32,43 +32,26 @@ An artist item targeted for brand promotion and sponsorship solicitation will be
 
 The Couture Gives Back protocol operates via a 5-step automated, non-custodial pipeline across Layer-2 EVM rollups and decentralized infrastructure:
 
-
-[ Luxury Brand / Sponsor ]
-│
-▼ (1) Liquid Proceeds & 10% Challenge Param Setup
-┌────────────────────────────────────────────────────────┐
-│ Project Portfolio 1: Core Parameter Registry & Vault │
-└────────────────────────┬───────────────────────────────┘
-│
-▼ (2) Automated Split
-┌──────────────────────────────────┐
-▼ (70% Active Aid) ▼ (30% Balanced Reserve)
-┌──────────────┐ ┌────────────────────────────────┐
-│ Active Pool │ │ Project Portfolio 2: Liquidity │
-└──────┬───────┘ └───────────────┬────────────────┘
-│ │
-│ ▼ Yield Harvest (24h)
-└────────────────► ┌──────────────┐ ◄──────┘
-│ Voucher Pool │
-└──────┬───────┘
-│
-▼ (3) User Entry Request
-┌────────────────────────────────────────────────────────┐
-│ Project Portfolio 3: ZK-Identity & Compliance Gateway │
-│ ──► Chainlink Automated Compliance Engine (OFAC Check) │
-│ ──► Semaphore ZK-Proof Generation (PII Anonymization) │
-└────────────────────────┬───────────────────────────────┘
-│
-▼ (4) Ticket Minted / Verified Cryptographic Token Issued
-┌────────────────────────────────────────────────────────┐
-│ Project Portfolio 4: Sovereign Edge Proxy / IPFS UI │
-│ ──► Local WebGPU AI Parameter Extraction │
-│ ──► Immediate RAM Memory Purge │
-└────────────────────────┬───────────────────────────────┘
-│
-▼ (5) Final Fulfillment
-[ Local Retail API ]
-[ Physical Aid Delivery ]
+``mermaid
+graph TD
+    A[Luxury Brand / Sponsor] -->|1. Ingress & Parameters| B(Portfolio 1: Core Registry & Vault)
+    B -->|2. Automated Split| C{70/30 Bifurcation Engine}
+    C -->|70% Funds| D[Active Aid Pool]
+    C -->|30% Funds| E[Portfolio 2: Liquidity Bridge]
+    E -->|Institutional Yield Lending| F[Aave / Yield Instruments]
+    F -->|24h Interest Harvest| D
+    D -->|Voucher Allocation| G(Voucher Pool)
+    
+    H[User Aid Request] -->|3. Compliance Gate| I(Portfolio 3: ZK Identity Gateway)
+    I -->|Chainlink ACE OFAC Check| J{Cleared?}
+    I -->|Semaphore ZK-Proof| K[Anonymized PII Token]
+    
+    J -->|Yes| L(Portfolio 4: Sovereign Edge Proxy)
+    K --> L
+    
+    L -->|4. Local WebGPU AI Runtime| M[Client RAM Purge]
+    L -->|5. Final Fulfillment| N[Local Retail API Voucher Delivery]
+```
 
 ### Detailed Flow breakdown:
 1. **Ingress & Lock:** Sponsors trigger the **Core Parameter Registry**, locking assets with an absolute non-recourse restriction (zero administrative clawbacks or freezes possible).
